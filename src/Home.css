@@ -1,0 +1,54 @@
+#home{
+    background-image: url("https://cdn.wallpapersafari.com/58/11/TYEmzh.jpg");
+   overflow: hidden;
+   clear:both;
+     
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 700px;
+}
+#para{
+    font-size: 40px;
+    font-weight: 400;
+    font-family: sans-serif;
+    font-style: italic;
+    color: white;
+    position:relative;
+    top:100px;
+}
+#h1{
+    display: inline-block;
+    width:100px;
+    position:relative;
+    left:500px;
+    font-size: 30px;
+    
+    
+}
+#b1{
+   position: relative;
+   right: -510px;
+   top: 150px;
+   font-size:20px;
+   background-color:red
+
+   
+
+}
+#b2{
+    position: relative;
+   right: -530px;
+   top: 150px;
+   font-size:20px;
+   background-color:blue
+}
+#b3{
+    position: relative;
+    right: -550px;
+    top: 150px;
+    font-size:20px;
+    background-color:green
+    
+ 
+ }
+ 

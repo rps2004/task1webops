@@ -1,0 +1,50 @@
+#contact{
+    background-image: url("https://marketplace.canva.com/EAFP2uZp1kY/1/0/1600w/canva-green-minimalist-contact-us-instagram-post-6wBvK74D2IA.jpg");
+    overflow: hidden;
+    clear:both;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 800px;
+   
+    
+}
+#bt1{
+    position: relative;
+    right: -510px;
+    top: 230px;
+    font-size:20px;
+    background-color:red
+ 
+    
+ 
+ }
+ #bt2{
+     position: relative;
+    right: -530px;
+    top: 230px;
+    font-size:20px;
+    background-color:blue
+ }
+ #bt3{
+     position: relative;
+     right: -550px;
+     top: 230px;
+     font-size:20px;
+     background-color:green
+     
+  
+  }
+  #pg1{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: sans-serif;
+    font-style: italic;
+    color: black;
+    position: relative;
+    top: 100px
+  }
+ #hd{
+    position:relative;
+    left:474px;
+ }
+

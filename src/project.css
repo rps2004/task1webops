@@ -1,0 +1,54 @@
+#project{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmDTXXHjoFKV2SoETBfIOfF_n7KQPabAt_VQ&usqp=CAU");
+    overflow: hidden;
+    clear:both;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 800px;
+}
+#btt1{
+    position: relative;
+   right: -90px;
+   top: 150px;
+   font-size:20px;
+   background-color:red
+}
+#btt2{
+    position: relative;
+   right: -110px;
+   top: 150px;
+   font-size:20px;
+   background-color:blue
+}
+#btt3{
+    position: relative;
+   right: -120px;
+   top: 150px;
+   font-size:20px;
+   background-color:green
+}
+.p2{
+    font-size: 24px;
+        font-weight: 600;
+        font-family: sans-serif;
+        font-style: italic;
+        color: white;
+        position: relative;
+        top: 100px
+}
+#hd2{
+    display:inline-block;
+    position:relative;
+    left: 474px;
+    color:antiquewhite
+
+}
+#h3{
+    display:inline-block;
+    position:relative;
+    top:60px;
+    left: 132px;
+    color:antiquewhite;
+    font-size:30px
+    
+}

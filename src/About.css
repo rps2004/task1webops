@@ -1,0 +1,26 @@
+#about{
+    background-image: url("https://png.pngtree.com/background/20210709/original/pngtree-business-background-banner-business-website-picture-image_306028.jpg");
+    overflow: hidden;
+    clear:both;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 800px;
+   
+}
+
+#pg{
+        font-size: 24px;
+        font-weight: 400;
+        font-family: sans-serif;
+        font-style: italic;
+        color: white;
+        position: relative;
+        top: 100px
+     }
+#head{
+    display: inline-block;
+    position:relative;
+    left: 474px;
+    color:antiquewhite
+}
+
